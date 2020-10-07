@@ -50,3 +50,4 @@ buildNumber.properties
 
 ## configuration stuff
 *.properties
+!example_discordbot.properties
